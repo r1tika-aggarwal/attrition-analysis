@@ -22,7 +22,7 @@ This project explores employee attrition through predictive modeling and visual 
 - **Predictive Analysis**  
   Model evaluation using accuracy, precision, recall, and confusion matrix.
 
-## 📁 Files Included
+## Files Included
 
 - `EA_combined.ipynb` – Jupyter notebook with full EDA, model training, evaluation, and visualizations.
 - `Attrition_Dashboard.pbix` – Power BI file with visual dashboard representation of attrition insights.
